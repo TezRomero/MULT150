@@ -3,7 +3,9 @@ guid: 8f7be99444eb85149833b7862c46e88d
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - streetLampPrefab: {fileID: 6815573791178092005, guid: d84d363fb5b710742862e167b19126c2, type: 3}
+  - prefab: {fileID: 6815573791178092005, guid: d84d363fb5b710742862e167b19126c2, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
